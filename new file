@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+    <body>
+        <form>
+             <fieldset>
+       <fieldset>
+        <legend>job application</legend>
+        <label for="name">Full Name</label>
+        <input type="text" id="name" placeholder="Full Name">
+        <br><br>
+        <label for="email">Email</label>
+        <input type="email" id="email">
+        <br><br>
+        <label for="phone">Phone</label>
+        <input type="number" id="phone">
+        <br><br>
+        ''
+        <label for="dob">date of birth</label>
+        <input type="date" id="dob">
+        <br><br>
+        <label for="gender">Gender</label>
+        <input type="radio" id="gender" value="male">male
+        <br><br>
+        <input type="radio" id="gender" value="female">female
+        <label for="">Country</label>
+        <br><br>
+    
+        <select name="country">
+        <option>United States</option>
+        <option>India</option>
+        <option>Australia</option>
+        <option>Canada</option>
+        </select>
+        
+        <br><br>
+        <label for="address">Address street</label>
+        <input type="text" id="address">
+        <br><br>
+        <label for="Qualification">Qualification</label>
+        <input type="Qualification"id="Qualification" 
+          
+        <option>10th</option>
+           <option>12th</option>
+           <option>gradute</opyion>
+        
+        
+        <label for="city">City</label>
+        <input type="text" id="city">
+        <br><br>
+        <label for="state">State</label>
+        <input type="text" id="state">
+        <br><br>
+        <label for="pin code">Pin Code</label>
+        <input type="text" id="pin code">
+        <br><br>
+        </fieldset>
+        <fieldset>
+            <legend> experience</legend>
+             <label for="work experience">work experience</label>
+        <textarea name="work experience"></textarea>
+        </fieldset>
+       
+
+       
+        <br> <br>
+        <input type="checkbox" name="terms">
+        <label for="">upload resume</label>
+        <input type="file name="resume">
+        <br><br>
+        <button>Submit</button>
+        
+                </fieldset>
+
+        </form>
+        <br><br>
+    <table border="1">
+
+    <thead>
+        <tr>
+            <th>name</th>
+            <th>class</th>
+            <th>address</th>
+            <th>state</th>
+            <th>country</th>
+        </tr>
+        <tr>
+            <td>Khushpreet</td>
+            <td>BCA</td>
+            <td>budhlada</td>
+            <td>Punjab</td>
+            <td>India</td>
+        </tr>
+        <tr>
+            <td>Rmn</td>
+            <td>BCA</td>
+            <td>Mansa</td>
+            <td>Punjab</td>
+            <td>India</td>
+                </tr>
+                <tr>
+                    <td>Ramandeep</td>
+                    <td>BCA</td>
+                    <td>Mansa</td>
+                    <td>Punjab</td>
+                    <td>India</td>
+                </tr>
+                <tr>
+                    <td>Tanu</td>
+                    <td>BCA</td>
+                    <td>Budhlada</td>
+                    <td>Punjab</td>
+                    <td>India</td>
+                </tr>
+            
+    </thead>
+
+    <tbody>
+        
+    </tbody>
+    <img src="https://in.images.search.yahoo.com/images/view;_ylt=Awr1SY7y2JVpclsOjge9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzM1MWQwNTlkYzkzMmVlMThhMDdmODg5ZTVjMWEzMmQ0BGdwb3MDMQRpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dlaptop%26type%3DE210IN1274G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D1&w=1024&h=811&imgurl=assets.techrepublic.com%2Fuploads%2F2024%2F01%2Ftr_20240108-hp-new-laptops-ces-2024-figure_a-1024x811.jpg&rurl=https%3A%2F%2Fwww.techrepublic.com%2Farticle%2Fhp-new-laptops-ces-2024%2F&size=377KB&p=laptop&oid=351d059dc932ee18a07f889e5c1a32d4&fr2=piv-web&fr=mcafee&tt=CES+2024%3A+HP%26%2339%3Bs+New+2-in-1+Laptops+Offer+AI+Features&b=0&ni=21&no=1&ts=&tab=organic&sigr=Rhf_39vtFWbw&sigb=wyQplpONiW2r&sigi=IM9r1iMkk5Qj&sigt=wzvj__4K7KfL&.crumb=175mWggZlnE&fr=mcafee&fr2=piv-web&type=E210IN1274G0" alt="">
+  <video src=""></video>
+<ul>
+  <li>BCA
+      <ul>
+          <li>Semester 1</li>
+          <li>Semester 2</li>
+      </ul>
+  </li>
+  
+  <li>B.Voc
+      <ul>
+          <li>Web Development</li>
+          <li>Software Development</li>
+      </ul>
+  </li>
+</ul>
+</body>
+</table>
+</html>
+    </html
